@@ -1,0 +1,60 @@
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    
+    .Content__TrangChu {
+        text-align: justify;
+        margin-top: 60px;
+        margin-bottom: 60px;
+        flex-wrap: wrap-reverse;
+    }
+    
+    .bg-cl {
+        background-color: gainsboro;
+    }
+    
+    .content__bol {
+        margin-top: 40px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
+    .content__bienvadao {
+        margin-bottom: 20px;
+    }
+    .content__monan {
+        margin-bottom: 20px;
+    }
+    
+    .center__Content {
+        margin: auto;
+        padding-bottom: 10px;
+    }
+    
+    .text__Description {
+        font-size: 1em;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-align: center;
+        margin-top: 15%;
+    }
+    
+    .me-auto__1 {
+        margin-left: 8.33333%;
+        text-align: center;
+    }
+    
+    .content_anh img {
+        width: 100%;
+        padding-bottom: 3.33333%;
+    }
+    
+    @media screen and (max-width:578px) {
+        .me-auto__1 {
+            margin-left: 0;
+            text-align: center;
+        }
+    }
+    .canhQuan.img{
+        width:100%;
+    }
